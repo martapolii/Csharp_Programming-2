@@ -1,0 +1,28 @@
+C:\Users\smile\source\repos\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\source\repos\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.AssemblyInfoInputs.cache
+C:\Users\smile\source\repos\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.AssemblyInfo.cs
+C:\Users\smile\source\repos\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.csproj.CoreCompileInputs.cache
+C:\Users\smile\source\repos\301432299_Lab07\bin\Debug\net6.0\301432299_Lab07.exe
+C:\Users\smile\source\repos\301432299_Lab07\bin\Debug\net6.0\301432299_Lab07.deps.json
+C:\Users\smile\source\repos\301432299_Lab07\bin\Debug\net6.0\301432299_Lab07.runtimeconfig.json
+C:\Users\smile\source\repos\301432299_Lab07\bin\Debug\net6.0\301432299_Lab07.dll
+C:\Users\smile\source\repos\301432299_Lab07\bin\Debug\net6.0\301432299_Lab07.pdb
+C:\Users\smile\source\repos\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.dll
+C:\Users\smile\source\repos\301432299_Lab07\obj\Debug\net6.0\refint\301432299_Lab07.dll
+C:\Users\smile\source\repos\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.pdb
+C:\Users\smile\source\repos\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.genruntimeconfig.cache
+C:\Users\smile\source\repos\301432299_Lab07\obj\Debug\net6.0\ref\301432299_Lab07.dll
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\bin\Debug\net6.0\301432299_Lab07.exe
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\bin\Debug\net6.0\301432299_Lab07.deps.json
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\bin\Debug\net6.0\301432299_Lab07.runtimeconfig.json
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\bin\Debug\net6.0\301432299_Lab07.dll
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\bin\Debug\net6.0\301432299_Lab07.pdb
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.AssemblyInfoInputs.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.AssemblyInfo.cs
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.csproj.CoreCompileInputs.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.dll
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\obj\Debug\net6.0\refint\301432299_Lab07.dll
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.pdb
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\obj\Debug\net6.0\301432299_Lab07.genruntimeconfig.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab07\obj\Debug\net6.0\ref\301432299_Lab07.dll
