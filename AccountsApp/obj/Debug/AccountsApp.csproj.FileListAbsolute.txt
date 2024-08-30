@@ -1,0 +1,10 @@
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Exam\AccountsApp\bin\Debug\AccountsApp.exe.config
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Exam\AccountsApp\bin\Debug\AccountsApp.exe
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Exam\AccountsApp\bin\Debug\AccountsApp.pdb
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Exam\AccountsApp\obj\Debug\AccountsApp.csproj.AssemblyReference.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Exam\AccountsApp\obj\Debug\AccountsApp.frmAccounts.resources
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Exam\AccountsApp\obj\Debug\AccountsApp.Properties.Resources.resources
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Exam\AccountsApp\obj\Debug\AccountsApp.csproj.GenerateResource.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Exam\AccountsApp\obj\Debug\AccountsApp.csproj.CoreCompileInputs.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Exam\AccountsApp\obj\Debug\AccountsApp.exe
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Exam\AccountsApp\obj\Debug\AccountsApp.pdb
