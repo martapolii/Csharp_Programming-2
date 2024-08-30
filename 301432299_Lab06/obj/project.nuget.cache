@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "NlbsT81yEg/kqOtE1aQiSh7DiBaYWyGrpdHAA76a/PlcUwJx1Hpws8NYaqwLi9H/62gvZ6jswze6M2niXXFt/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smile\\OneDrive\\Desktop\\OneDrive\\Centennial\\2. Semester 2 - Summer 2024\\COMP-123 Programming 2\\Coding Assignments\\301432299_Lab06\\301432299_Lab06.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smile\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\smile\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\smile\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\smile\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\smile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
