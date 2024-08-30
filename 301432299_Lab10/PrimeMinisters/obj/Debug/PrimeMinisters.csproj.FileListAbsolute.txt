@@ -1,0 +1,10 @@
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab10\PrimeMinisters\obj\Debug\PrimeMinisters.csproj.AssemblyReference.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab10\PrimeMinisters\obj\Debug\PrimeMinisters.frmPrimeMinisters.resources
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab10\PrimeMinisters\obj\Debug\PrimeMinisters.Properties.Resources.resources
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab10\PrimeMinisters\obj\Debug\PrimeMinisters.csproj.GenerateResource.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab10\PrimeMinisters\obj\Debug\PrimeMinisters.csproj.CoreCompileInputs.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab10\PrimeMinisters\bin\Debug\PrimeMinisters.exe.config
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab10\PrimeMinisters\bin\Debug\PrimeMinisters.exe
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab10\PrimeMinisters\bin\Debug\PrimeMinisters.pdb
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab10\PrimeMinisters\obj\Debug\PrimeMinisters.exe
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab10\PrimeMinisters\obj\Debug\PrimeMinisters.pdb
