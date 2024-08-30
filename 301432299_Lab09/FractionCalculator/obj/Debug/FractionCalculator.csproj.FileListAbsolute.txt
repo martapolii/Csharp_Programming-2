@@ -1,0 +1,10 @@
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab09\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab09\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab09\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab09\FractionCalculator\obj\Debug\FractionCalculator.csproj.AssemblyReference.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab09\FractionCalculator\obj\Debug\FractionCalculator.frmFractionCalculator.resources
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab09\FractionCalculator\obj\Debug\FractionCalculator.Properties.Resources.resources
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab09\FractionCalculator\obj\Debug\FractionCalculator.csproj.GenerateResource.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab09\FractionCalculator\obj\Debug\FractionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab09\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab09\FractionCalculator\obj\Debug\FractionCalculator.pdb
