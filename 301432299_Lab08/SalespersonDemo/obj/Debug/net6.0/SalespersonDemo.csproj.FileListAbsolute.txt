@@ -1,0 +1,14 @@
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\bin\Debug\net6.0\SalespersonDemo.exe
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\bin\Debug\net6.0\SalespersonDemo.deps.json
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\bin\Debug\net6.0\SalespersonDemo.runtimeconfig.json
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\bin\Debug\net6.0\SalespersonDemo.dll
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\bin\Debug\net6.0\SalespersonDemo.pdb
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\obj\Debug\net6.0\SalespersonDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\obj\Debug\net6.0\SalespersonDemo.AssemblyInfoInputs.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\obj\Debug\net6.0\SalespersonDemo.AssemblyInfo.cs
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\obj\Debug\net6.0\SalespersonDemo.csproj.CoreCompileInputs.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\obj\Debug\net6.0\SalespersonDemo.dll
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\obj\Debug\net6.0\refint\SalespersonDemo.dll
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\obj\Debug\net6.0\SalespersonDemo.pdb
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\obj\Debug\net6.0\SalespersonDemo.genruntimeconfig.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab08\SalespersonDemo\obj\Debug\net6.0\ref\SalespersonDemo.dll
