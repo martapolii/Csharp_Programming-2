@@ -1,0 +1,14 @@
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\obj\Debug\net6.0\CarDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\obj\Debug\net6.0\CarDemoApp.AssemblyInfoInputs.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\obj\Debug\net6.0\CarDemoApp.AssemblyInfo.cs
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\obj\Debug\net6.0\CarDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\bin\Debug\net6.0\CarDemoApp.exe
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\bin\Debug\net6.0\CarDemoApp.deps.json
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\bin\Debug\net6.0\CarDemoApp.runtimeconfig.json
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\bin\Debug\net6.0\CarDemoApp.dll
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\bin\Debug\net6.0\CarDemoApp.pdb
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\obj\Debug\net6.0\CarDemoApp.dll
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\obj\Debug\net6.0\refint\CarDemoApp.dll
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\obj\Debug\net6.0\CarDemoApp.pdb
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\obj\Debug\net6.0\CarDemoApp.genruntimeconfig.cache
+C:\Users\smile\OneDrive\Desktop\OneDrive\Centennial\2. Semester 2 - Summer 2024\COMP-123 Programming 2\Coding Assignments\301432299_Lab04\CarDemoApp\obj\Debug\net6.0\ref\CarDemoApp.dll
